@@ -13,7 +13,7 @@ Para practicar la encapsulación:
 */
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Persona miPersona = new Persona();
 
         miPersona.setNombre("Fran");
